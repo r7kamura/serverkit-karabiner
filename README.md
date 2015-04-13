@@ -1,9 +1,20 @@
 # serverkit-karabiner
 [Serverkit](https://github.com/r7kamura/serverkit) plug-in for [Karabiner](https://pqrs.org/osx/karabiner/).
 
-## Resources
+- [Install](#install)
+- [Resource](#resource)
+  - [karabiner](#karabiner)
+    - [Attributes](#attributes)
+    - [Example](#example)
+
+## Install
+```rb
+gem "serverkit-karabiner"
+```
+
+## Resource
 ### karabiner
-Write a key-value pair with karabiner
+Make sure the key-value pair is set on Karabiner.
 
 #### Attributes
 - key (required)
