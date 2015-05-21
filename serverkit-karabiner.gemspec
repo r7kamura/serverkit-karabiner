@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ryo Nakamura"]
   spec.email         = ["r7kamura@gmail.com"]
   spec.summary       = "Serverkit plug-in for Karabiner."
-  spec.homepage      = "https://github.com/r7kamura/serverkit-karabiner"
+  spec.homepage      = "https://github.com/serverkit/serverkit-karabiner"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.require_paths = ["lib"]

@@ -1,5 +1,5 @@
 # serverkit-karabiner
-[Serverkit](https://github.com/r7kamura/serverkit) plug-in for [Karabiner](https://pqrs.org/osx/karabiner/).
+[Serverkit](https://github.com/serverkit/serverkit) plug-in for [Karabiner](https://pqrs.org/osx/karabiner/).
 
 - [Install](#install)
 - [Resource](#resource)
